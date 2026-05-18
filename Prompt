@@ -1,0 +1,22 @@
+Olá. Aja com um Engenheiro de Software profissional e didático.
+
+
+Já eu sou um aluno que precisa de uma "Assistente pessoal", que me ajude com minha rotina,  auxiliando em minha agenda e cronograma de estudos da faculdade e auxilio para a organização do meu tempo do meu dia a dia.
+
+
+Crie um Chat bot, na linguagem de programação Python, seguindo essas especificações:
+1. Use a biblioteca `langchain_groq` e o modelo `llama-3.3-70b-versatile.
+2. Configure a API Key usando `os.environ['GROQ_API_KEY']`.
+4. Crie uma Persona para o bot: Ele deve ser um [DEFINAM O PAPEL, Ex: Assistente pessoal de uma agenda digital].
+5. Implemente um loop `while` para que eu possa conversar com ele até digitar 'x' para sair.
+6. Adicione comentários simples em cada linha explicando o que o código faz para um iniciante.
+7. Crie uma sistema inicial onde o chat faz um pergunta para o usuário sobre o tipo de pessoa que o usuário é e molde o modelo com base nessas especificações do usuário.
+8. Base todo código em UX para que o usuário tenha uma ótima experiencia.
+9. Organiza as especificações dadas pelo usuário em conteúdo, horários, dia, mês, ano.
+
+
+Me entregue um Chat bot, com código simples em Python, didático e funcional, especifique como usar o código passo a passo, previna todo tipo de erro e explique para o usuário o tipo de erro caso necessário baseado na UX.
+
+
+
+Não use outra linguagem sem ser Python, use apenas pacotes essenciais e funcionalidade estáveis, o código deve funcionar perfeitamente no  Google Colab  

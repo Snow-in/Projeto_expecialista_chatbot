@@ -35,7 +35,7 @@ Este projeto foi validado para rodar perfeitamente tanto em ambiente local quant
 ### Passo 1: Obter a API Key do Groq
 1. Acesse o site do [Groq Cloud Console](https://console.groq.com/).
 2. Crie uma conta gratuita e navegue até a seção **API Keys**.
-3. Gere uma nova chave e copie-a.
+3. Gere uma nova chave e copie-a em no código na parte "SUA_CHAVE_AQUI"
 
 ### Passo 2: Instalação das Dependências
 Antes de executar o script, instale as bibliotecas oficiais necessárias executando o comando abaixo no seu terminal ou em uma célula do Colab:
